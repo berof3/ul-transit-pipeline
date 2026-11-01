@@ -1,0 +1,14 @@
+# Secrets — API keys and DB passwords live here, never in git
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
